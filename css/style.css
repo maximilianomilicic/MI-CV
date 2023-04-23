@@ -1,3 +1,6 @@
-.nombre {
-    
+:root {
+    --letras-negras: #444444;
+    --fondo-arriba: #cfcfcf;
+    --fondo-izquierda: #f4f4f4;
+    --fondo-derecha: #ffffff;
 }
